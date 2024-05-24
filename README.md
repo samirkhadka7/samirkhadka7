@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samir khadka(RAZBAR)</h1>
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+
 
 - 📫 How to reach me **samirkhadka9725@gmail.com**
 
